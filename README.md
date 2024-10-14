@@ -5,3 +5,5 @@ os commandy
 |----------ps ax----------|
 |**----tvorba-souboru---**|
 |-----------touch---------|
+|**---psani-do-souboru--**|
+|--cat > (nazev souboru)--|
