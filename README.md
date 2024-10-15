@@ -1,9 +1,10 @@
 # OSko
 os commandy
-|**vypsani-vsech-operaci**|
-|-------------------------|
-|----------ps ax----------|
+|**vypsani_vsech_operaci**|
+|----------ps_ax----------|
 |**----tvorba-souboru---**|
 |-----------touch---------|
 |**---psani-do-souboru--**|
 |--cat > (nazev souboru)--|
+|**----ukázání-IPiny----**|
+|--------if_config--------|
