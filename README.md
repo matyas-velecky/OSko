@@ -1,5 +1,4 @@
 # OSko
-os commandy
 |**vypsani_vsech_operaci**|
 |----------ps_ax----------|
 |**----tvorba-souboru---**|
