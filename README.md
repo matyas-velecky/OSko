@@ -26,14 +26,14 @@
 |        **chmod**        |
 |-------------------------|
 
-U = vlastník
-q = skupina
-o = ostatní
+U = vlastník;
+q = skupina;
+o = ostatní;
 
 Triplets
-r = 4
-w = 2
-x = 1
+r = 4;
+w = 2;
+x = 1;
 
 |         chmod           |
 |-------------------------|
