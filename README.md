@@ -35,7 +35,8 @@ r = 4;
 w = 2;
 x = 1;
 
-|         chmod           |
-|-------------------------|
-
+|         chmod                 |
+|-------------------------------|
+|  př. chmod u+x (nazev_souboru)|
+|  chmod 752 (nazev_souboru)    |
 
