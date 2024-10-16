@@ -2,7 +2,9 @@
 |        comandy          |
 |-------------------------|
 |**vypsani_vsech_operaci**|
+|-------------------------|
 |          ps_ax          |
+|-------------------------|
 |**    tvorba-souboru   **|
 |           touch         |
 |**   psani-do-souboru  **|
