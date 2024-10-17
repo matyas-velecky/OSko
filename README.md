@@ -3,7 +3,7 @@
 |-------------------------------------------------------|
 |**vypsani_vsech_operaci**                              |
 |          ps_ax                                        |
-|    ps_ax | grep bash                                  |
+|    ps_ax \| grep bash                                  |
 | awk-textový preprocesor                               |
 |ps_ax\|grep <co chceme vzhledat>\|'{print$<číslo>;}'                             |
 |ps_ax \|grep -m l <co chceme vzhledat> \|'{print$<číslo>;}' - vyhledá PID bashe  |
