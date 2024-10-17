@@ -3,6 +3,11 @@
 |-------------------------|
 |**vypsani_vsech_operaci**|
 |          ps_ax          |
+|    ps_ax | grep bash    |
+| awk-textový preprocesor |
+|ps_ax|grep bash|'{print$0;}'|
+|ps_ax|grep -m l bash|'{print$0;}' - vyhledá PID bashe|
+|kill -9 `ps_ax|grep -m l bash|'{print$0;}'`|
 |-------------------------|
 |**    tvorba-souboru   **|
 |           touch         |
