@@ -5,8 +5,8 @@
 |          ps_ax                                        |
 |    ps_ax \| grep \<co cheme vhledat>                                  |
 |ps_ax\|grep \<co chceme vzhledat>\|'{print$<číslo>;}'                             |
-|ps_ax \|grep -m l \<co chceme vzhledat> \|'{print$<číslo>;}' - vyhledá PID bashe  |
-|kill -9 `ps_ax \|grep -m l <co chceme vzhledat> \|'{print$<číslo>;}'`            |
+|ps_ax \|grep -m 1 \<co chceme vzhledat> \|'{print$<číslo>;}' - vyhledá PID bashe  |
+|kill -9 `ps_ax \|grep -m 1 <co chceme vzhledat> \|'{print$<číslo>;}'`            |
 |-------------------------------------------------------|
 |**    tvorba-souboru   **                              |
 |           touch                                       |
@@ -62,3 +62,11 @@ x = 1;
 |lspci|
 |**textový preprocesor**|
 | awk                              |
+|**vyhledávání souborů**|
+|----------------------------------------------------|
+|grep <název souboru>|
+|*locate*|
+|sudo apt-get install plocate|
+|locate <název souboru>|
+|*pro servery lepší*|
+|find <název souboru>|
