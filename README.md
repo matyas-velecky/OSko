@@ -53,4 +53,11 @@ x = 1;
 |code .bashrc|
 |**změna hostname**|
 |cat/etc/hostname|
-
+|**vypsání hárdvare**|
+|----------------------------------------------------|
+|*všeho*|
+|lshw|
+|*v USB*|
+|lsusb|
+|*vypíaní všeho připojeného*|
+|lspci|
