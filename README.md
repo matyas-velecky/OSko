@@ -5,9 +5,9 @@
 |          ps_ax                                        |
 |    ps_ax | grep bash                                  |
 | awk-textový preprocesor                               |
-|ps_ax\|grep bash\|'{print$0;}'                             |
-|ps_ax \|grep -m l bash \|'{print$0;}' - vyhledá PID bashe  |
-|kill -9 `ps_ax \|grep -m l bash \|'{print$0;}'`            |
+|ps_ax\|grep <co chceme vzhledat>\|'{print$<číslo>;}'                             |
+|ps_ax \|grep -m l <co chceme vzhledat> \|'{print$<číslo>;}' - vyhledá PID bashe  |
+|kill -9 `ps_ax \|grep -m l <co chceme vzhledat> \|'{print$<číslo>;}'`            |
 |-------------------------------------------------------|
 |**    tvorba-souboru   **                              |
 |           touch                                       |
