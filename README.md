@@ -59,5 +59,5 @@ x = 1;
 |lshw|
 |*v USB*|
 |lsusb|
-|*vypíaní všeho připojeného*|
+|*vypsání všeho připojeného*|
 |lspci|
