@@ -48,7 +48,7 @@ x = 1;
 |------------------------------------------------------|
 |export <jméno proměnné> ="<proměnná>|
 |------------------------------------------------------|
-|**vepsání na začátek terminalu**|
+|**zapnutí vscode v bashy**|
 |code .bashrc|
 |**změna hostname**|
 |cat/etc/hostname|
@@ -70,3 +70,18 @@ x = 1;
 |locate <název souboru>|
 |*pro servery lepší*|
 |find <název souboru>|
+|**zjištění voleného místa na hdd/ssd**|
+|----------------------------------------------------|
+|df|
+|**root přihlášení**|
+|sudo su|
+|**ssh klíče**|
+|----------------------------------------------------|
+|*generování*|
+|ssh-keygen|
+|*kopírování na klienta serveru*|
+|ssh-copy-id <ip>|
+|*nastavení kopírování pouze přes ssh*|
+|nano /etc/ssh/sshd_config|
+|**proměné v operační paměti**|
+|set|
