@@ -52,7 +52,7 @@ x = 1;
 |code .bashrc|
 |**změna hostname**|
 |cat/etc/hostname|
-|**vypsání hárdvare**|
+|**vypsání hardware**|
 |----------------------------------------------------|
 |*všeho*|
 |lshw|
