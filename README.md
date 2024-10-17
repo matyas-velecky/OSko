@@ -51,4 +51,6 @@ x = 1;
 |------------------------------------------------------|
 |vepsání na začátek terminalu|
 |code .bashrc|
+| změna hostname|
+|cat/etc/hostname|
 
