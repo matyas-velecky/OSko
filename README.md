@@ -81,7 +81,7 @@ x = 1;
 |ssh-keygen|
 |*kopírování na klienta serveru*|
 |ssh-copy-id <ip>|
-|*nastavení kopírování pouze přes ssh*|
+|*nastavení přihlášení pouze přes ssh*|
 |nano /etc/ssh/sshd_config|
 |**proměné v operační paměti**|
 |set|
