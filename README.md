@@ -49,8 +49,8 @@ x = 1;
 |------------------------------------------------------|
 |export <jméno proměnné> ="<proměnná>|
 |------------------------------------------------------|
-|vepsání na začátek terminalu|
+|**vepsání na začátek terminalu**|
 |code .bashrc|
-| změna hostname|
+|**změna hostname**|
 |cat/etc/hostname|
 
