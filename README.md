@@ -99,3 +99,9 @@ zero-day = Přes chybu programu je útočník schopen přepsat kód a dát tam n
 |sudo gruoups xxx|
 |sudo gruoups -aG users xxx|
 |  -přidá uživatele do skupiny xxx|
+|passwd|
+| -změna hesla|
+|cat /etc/passwd|
+| -zakladní parametry uživatele|
+|cat /etc/shadow|
+| -obsahuje stopu hesla|
