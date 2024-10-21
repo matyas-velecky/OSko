@@ -64,6 +64,7 @@ x = 1;
 |**vyhledávání souborů**|
 |----------------------------------------------------|
 |grep <název souboru>|
+|----------------------------------------------------|
 |*locate*|
 |sudo apt-get install plocate|
 |locate <název souboru>|
