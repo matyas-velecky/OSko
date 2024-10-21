@@ -101,7 +101,9 @@ zero-day = Přes chybu programu je útočník schopen přepsat kód a dát tam n
 |  -přidá uživatele do skupiny xxx|
 |passwd|
 | -změna hesla|
-|cat /etc/passwd|
+|sudo cat /etc/passwd|
 | -zakladní parametry uživatele|
-|cat /etc/shadow|
+|sudo cat /etc/shadow|
 | -obsahuje stopu hesla|
+|sudo cat /etc/group|
+|  -ukáže skupiny|
