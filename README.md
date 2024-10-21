@@ -85,3 +85,17 @@ x = 1;
 |nano /etc/ssh/sshd_config|
 |**proměné v operační paměti**|
 |set|
+**root.cz - užitečný web**
+zero-day = Přes chybu programu je útočník schopen přepsat kód a dát tam nějaký virus.
+|**přidání uživatele**|
+|----------------------------------------------------|
+|useradd|
+|  -pro skripty(neinteraktivní)|
+|adduser|
+|  -pro terminal(interaktivní)|
+|----------------------------------------------------|
+|sudo usermod|
+|  -pro přidání uživatele do skupin|
+|sudo gruoups xxx|
+|sudo gruoups -aG users xxx|
+|  -přidá uživatele do skupiny xxx|
