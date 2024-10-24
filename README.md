@@ -77,6 +77,8 @@ x = 1;
 |sudo su|
 |**ssh klíče**|
 |----------------------------------------------------|
+|**installačka na server**|
+| sudo apt install openssh sever |
 |*generování*|
 |ssh-keygen|
 |*kopírování na klienta serveru*|
