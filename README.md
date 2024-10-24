@@ -109,7 +109,9 @@ zero-day = Přes chybu programu je útočník schopen přepsat kód a dát tam n
 | -obsahuje stopu hesla|
 |sudo cat /etc/group|
 |  -ukáže skupiny|
+
 127.0.0.1 = lokální rozhraní, lze se na něho dostat pouze ze svého počítače do ského počítače
+
 |**syncthing**|
 |-------------|
 |sudo mkdir -p /etc/apt/keyrings|
