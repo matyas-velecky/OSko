@@ -120,3 +120,13 @@ zero-day = Přes chybu programu je útočník schopen přepsat kód a dát tam n
 |sudo apt-get update|
 |sudo apt-get install syncthing|
 |změnít 127.0.0.1 -> 0.0.0.0.|
+
+|**registry***|
+|--------------|
+|*windows*|
+|---------|
+|regdrt|
+|*linux*|
+|--------|
+|/etc/sysctl.conf|
+|sysctl|
