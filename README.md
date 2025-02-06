@@ -13,7 +13,8 @@
 |-------------------------------------------------------|
 |**   psani-do-souboru  **                              | 
 |     vim nazev souboru                                 |
-|-------------------------------------------------------|
+|-------------------------------------------------------|SwapFree:              0 kB
+
 |**    ukázání-IPiny    **                              |
 |        if_config                                      |
 |-------------------------------------------------------|
@@ -130,3 +131,6 @@ zero-day = Přes chybu programu je útočník schopen přepsat kód a dát tam n
 |--------|
 |/etc/sysctl.conf|
 |sysctl|
+|-------|
+|export|
+|exportuje do proměnné prostředí|
